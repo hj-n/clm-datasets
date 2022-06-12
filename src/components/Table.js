@@ -1,11 +1,19 @@
 import tableData from "../json/data.json";
+import { useSelector } from "react-redux";
 
 const Table = (props) => {
-
-	console.log(tableData)
+	const sliderVar = useSelector((state) => state.slider.value);
 
 	// sort tableDAta by scores field
 	tableData.sort((a, b) => { return b.score - a.score; });
+
+	// filter tableData by slider value
+	const filteredTableData = tableData.filter((item) => {
+		return item.score >= (100 - sliderVar) / 100;
+	});
+
+
+
 	return (
 		<div>
 			<table>
@@ -16,7 +24,7 @@ const Table = (props) => {
 					</tr>
 				</thead>
 				<tbody>
-					{tableData.map((row, i) => {
+					{filteredTableData.map((row, i) => {
 						return (
 							<tr key={i}>	
 								<td>{row.name}</td>

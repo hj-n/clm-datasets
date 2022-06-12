@@ -1,0 +1,770 @@
+[
+	{
+		"name": "Ecoli",
+		"key": "ecoli",
+		"score": 0.7231924319399033,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Orbit Classification For Prediction Nasa",
+		"key": "orbit_classification_for_prediction_nasa",
+		"score": -0.051817180986095134,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Skillcraft1 Master Table Dataset",
+		"key": "skillcraft1_master_table_dataset",
+		"score": 0.03368116472587691,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Breast Cancer Coimbra",
+		"key": "breast_cancer_coimbra",
+		"score": 0.056179795144211495,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Breast Tissue",
+		"key": "breast_tissue",
+		"score": 0.41736186292977734,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Glass Identification",
+		"key": "glass_identification",
+		"score": 0.4689218243314889,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Breast Cancer Wisconsin Original",
+		"key": "breast_cancer_wisconsin_original",
+		"score": 0.944478794486823,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Hiva",
+		"key": "hiva",
+		"score": 0.0855867475601896,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Wireless Indoor Localization",
+		"key": "wireless_indoor_localization",
+		"score": 0.9751557265545211,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Pima Indians Diabetes Database",
+		"key": "pima_indians_diabetes_database",
+		"score": 0.2826853689422029,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Sentiment Labeld Sentences",
+		"key": "sentiment_labeld_sentences",
+		"score": 0.14679029474349733,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Diabetic Retinopathy Debrecen",
+		"key": "diabetic_retinopathy_debrecen",
+		"score": 0.23020054985466012,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Optical Recognition Of Handwritten Digits",
+		"key": "optical_recognition_of_handwritten_digits",
+		"score": 0.9323103010712449,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Iris",
+		"key": "iris",
+		"score": 0.9534778677070436,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Mnist64",
+		"key": "mnist64",
+		"score": 0.8807347940577169,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Harbermans Survival",
+		"key": "harbermans_survival",
+		"score": 0.2728696798812862,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "User Knowledge Modeling",
+		"key": "user_knowledge_modeling",
+		"score": 0.7120294815987435,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Seeds",
+		"key": "seeds",
+		"score": 0.944415979904622,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Ph Recognition",
+		"key": "ph_recognition",
+		"score": 0.8439088018176305,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Water Quality",
+		"key": "water_quality",
+		"score": 0.04349356714065573,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Har",
+		"key": "har",
+		"score": 0.8093082155850093,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Weather",
+		"key": "weather",
+		"score": 0.9990371515007207,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Flickr Material Database",
+		"key": "flickr_material_database",
+		"score": 0.3729133015321289,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Birds Bones And Living Habits",
+		"key": "birds_bones_and_living_habits",
+		"score": 0.5291406615239013,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Planning Relax",
+		"key": "planning_relax",
+		"score": -0.08609476166782785,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Durum Wheat Features",
+		"key": "durum_wheat_features",
+		"score": 0.6085211724696467,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Turkish Music Emotion",
+		"key": "turkish_music_emotion",
+		"score": 0.3540675256800931,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Spambase",
+		"key": "spambase",
+		"score": 9.48820533546038e-06,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Classification In Asteroseismology",
+		"key": "classification_in_asteroseismology",
+		"score": 0.8550825365661492,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Student Grade",
+		"key": "student_grade",
+		"score": 0.43596891343812594,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Coil20",
+		"key": "coil20",
+		"score": 0.807521644178656,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Heart Attack Analysis Prediction Dataset",
+		"key": "heart_attack_analysis_prediction_dataset",
+		"score": 0.058631695066563384,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Zoo",
+		"key": "zoo",
+		"score": 0.6816867760029481,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Credit Risk Classification",
+		"key": "credit_risk_classification",
+		"score": 0.09060397021629653,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Smoker Condition",
+		"key": "smoker_condition",
+		"score": 1.6604476445616686e-05,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Secom",
+		"key": "secom",
+		"score": 0.040441636793371934,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Fashion Mnist",
+		"key": "fashion_mnist",
+		"score": 0.8798413926195705,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Insurance Company Benchmark",
+		"key": "insurance_company_benchmark",
+		"score": 0.1373805313101745,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Heart Disease",
+		"key": "heart_disease",
+		"score": 0.011555520352988949,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Magic Gamma Telescope",
+		"key": "magic_gamma_telescope",
+		"score": 0.37563478100249337,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Rice Seed Gonen Jasmine",
+		"key": "rice_seed_gonen_jasmine",
+		"score": 0.9243123479368274,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Dry Bean",
+		"key": "dry_bean",
+		"score": 0.8946354503921738,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Paris Housing Classification",
+		"key": "paris_housing_classification",
+		"score": 0.006443939135388861,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Blood Transfusion Service Center",
+		"key": "blood_transfusion_service_center",
+		"score": 0.41350922267729556,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Dermatology",
+		"key": "dermatology",
+		"score": 0.44140606387657383,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Patient Treatment Classification",
+		"key": "patient_treatment_classification",
+		"score": 0.27734120519508076,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Customer Classification",
+		"key": "customer_classification",
+		"score": 0.050953331038081855,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Extyaleb",
+		"key": "extyaleb",
+		"score": 0.3259713617993797,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Hepatitis",
+		"key": "hepatitis",
+		"score": 0.07092926267480965,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Cifar10",
+		"key": "cifar10",
+		"score": 0.3559912565126001,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Pumpkin Seeds",
+		"key": "pumpkin_seeds",
+		"score": 0.3002827617433294,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Labeled Faces In The Wild",
+		"key": "labeled_faces_in_the_wild",
+		"score": 0.01565007552161746,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Parkinsons",
+		"key": "parkinsons",
+		"score": 0.22195464333520828,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Echocardiogram",
+		"key": "echocardiogram",
+		"score": 0.8646639718407442,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Pen Based Recognition Of Handwritten Digits",
+		"key": "pen_based_recognition_of_handwritten_digits",
+		"score": 0.9293738534070864,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Letter Recognition",
+		"key": "letter_recognition",
+		"score": 0.8158726082251998,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Banknote Authentication",
+		"key": "banknote_authentication",
+		"score": 0.7292334684874383,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Image Segmentation",
+		"key": "image_segmentation",
+		"score": 0.6390781478935308,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Predicting Pulsar Star",
+		"key": "predicting_pulsar_star",
+		"score": 0.3620424572248467,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Boston",
+		"key": "boston",
+		"score": 0.7268669704548466,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Taiwanese Bankruptcy Prediction",
+		"key": "taiwanese_bankruptcy_prediction",
+		"score": 0.031910993553027116,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Human Stress Detection",
+		"key": "human_stress_detection",
+		"score": 0.855710306621182,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Website Phishing",
+		"key": "website_phishing",
+		"score": 0.733545159953811,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Mammographic Mass",
+		"key": "mammographic_mass",
+		"score": 0.6371035955703966,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Wilt",
+		"key": "wilt",
+		"score": 0.05520553385893489,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Imdb",
+		"key": "imdb",
+		"score": 0.00834342443462369,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Date Fruit",
+		"key": "date_fruit",
+		"score": 0.7079426152508543,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Crowdsourced Mapping",
+		"key": "crowdsourced_mapping",
+		"score": 0.6790265075003084,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Yeast",
+		"key": "yeast",
+		"score": 0.6766124330672795,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Street View House Numbers",
+		"key": "street_view_house_numbers",
+		"score": -0.009503300183038455,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Pistachio",
+		"key": "pistachio",
+		"score": 0.7782093948210176,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Rice Dataset Cammeo And Osmancik",
+		"key": "rice_dataset_cammeo_and_osmancik",
+		"score": 0.8812070658644875,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Breast Cancer Wisconsin Prognostic",
+		"key": "breast_cancer_wisconsin_prognostic",
+		"score": 0.8921782506003496,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Wine",
+		"key": "wine",
+		"score": 0.7245447496978406,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Microbes",
+		"key": "microbes",
+		"score": 0.33161800766301364,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Raisin",
+		"key": "raisin",
+		"score": 0.7799165506985692,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Ionosphere",
+		"key": "ionosphere",
+		"score": 0.35390041721549403,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Statlog German Credit",
+		"key": "statlog_german_credit",
+		"score": 0.29601042590029686,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Seismic Bumps",
+		"key": "seismic_bumps",
+		"score": 0.13163356742409585,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Cnae9",
+		"key": "cnae9",
+		"score": 0.47637259277348787,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Music Genre Classification",
+		"key": "music_genre_classification",
+		"score": 0.5671769591912116,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Wine Customer",
+		"key": "wine_customer",
+		"score": 0.7403010985274333,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Epileptic Seizure Recognition",
+		"key": "epileptic_seizure_recognition",
+		"score": 0.02456493164466857,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Olivetti Faces",
+		"key": "olivetti_faces",
+		"score": 0.6603152456671524,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Fraud Detection Bank",
+		"key": "fraud_detection_bank",
+		"score": 1.766283468515058e-22,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Mobile Price Classification",
+		"key": "mobile_price_classification",
+		"score": 0.9117837027301499,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "World12d",
+		"key": "world12d",
+		"score": 0.13068700258839405,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Siberian Weather Stats",
+		"key": "siberian_weather_stats",
+		"score": 0.1213946269617162,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Statlog Image Segmentation",
+		"key": "statlog_image_segmentation",
+		"score": 0.6882078260827807,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Htru2",
+		"key": "htru2",
+		"score": 0.34478601107040074,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Sms Spam Collection",
+		"key": "sms_spam_collection",
+		"score": 0.23963295230037893,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Hate Speech",
+		"key": "hate_speech",
+		"score": 0.2701173365019606,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Cardiovascular Study",
+		"key": "cardiovascular_study",
+		"score": 0.3987041245113661,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Fetal Health Classification",
+		"key": "fetal_health_classification",
+		"score": 0.6747789260801323,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Wine Quality",
+		"key": "wine_quality",
+		"score": 0.1955684914585365,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	},
+	{
+		"name": "Spectf Heart",
+		"key": "spectf_heart",
+		"score": 0.418844464222627,
+		"points": 0,
+		"dimensions": 0,
+		"classes": 0
+	}
+]

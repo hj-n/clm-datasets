@@ -7,13 +7,18 @@ import { Vega } from 'react-vega';
 const Slider = (props) => {
 	const tableData = props.tableData;
 	const vegaData = {
-		"scores": tableData.map(item => {return {"Class-Label Matching": item.score}})
+		"scores": tableData.map(item => {return {
+			"Class-Label Matching": item.score,
+			"dataset": item.name,
+			"key": item.key,
+		}})
 	}
+
 
 	const spec = {
 		"width": 600,
 		"height": 50,
-		"mark": "tick",
+		"mark": "point",
 		"encoding": {
 			"x": {"field": "Class-Label Matching", "type": "quantitative"},
 			"color": {
@@ -43,7 +48,6 @@ const Slider = (props) => {
 
 
 	function dragBrush(...event) {
-		console.log(event[1]["Class-Label Matching"])
 		dispatch(setValue(event[1]["Class-Label Matching"]));
 
 

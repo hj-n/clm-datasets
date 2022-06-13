@@ -1,10 +1,11 @@
-import tableData from "../json/data.json";
 import { useSelector } from "react-redux";
 
 const Table = (props) => {
+	const tableData = props.tableData;
+
 	const sliderVar = useSelector((state) => state.slider.value);
 
-	// sort tableDAta by scores field
+	// sort tableData by scores field
 	tableData.sort((a, b) => { return b.score - a.score; });
 
 	// filter tableData by slider value

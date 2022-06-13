@@ -3,14 +3,16 @@ import { useSelector } from "react-redux";
 const Table = (props) => {
 	const tableData = props.tableData;
 
-	const sliderVar = useSelector((state) => state.slider.value);
+	const sliderVal = useSelector((state) => state.slider.value);
 
 	// sort tableData by scores field
 	tableData.sort((a, b) => { return b.score - a.score; });
 
 	// filter tableData by slider value
 	const filteredTableData = tableData.filter((item) => {
-		return item.score >= (100 - sliderVar) / 100;
+		return (
+			item.score >= sliderVal[0] && item.score <= sliderVal[1]
+		)
 	});
 
 

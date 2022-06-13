@@ -48,9 +48,10 @@ const Slider = (props) => {
 
 
 	function dragBrush(...event) {
+		if (Object.keys(event[1]).length === 0) {
+			return;
+		}
 		dispatch(setValue(event[1]["Class-Label Matching"]));
-
-
 	}
 
 	const signalListeners = { brush: dragBrush };

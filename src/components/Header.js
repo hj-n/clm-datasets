@@ -14,7 +14,7 @@ const Header = (props) => {
 			<p className="w-3/5 mx-auto leading-relaxed mt-5">
 				You can filter datasets within a specific CLM range by adjusting the below slider.
 				All datasets are in both compressed (.bin) and numpy (.npy) formats. 
-				To download entire datasets at once, refer to our <a href="https://github.com/hj-n/ext-clustering-validation-datasets/blob/master/reader.py">GitHub repository</a>. 
+				To download entire datasets at once, refer to our <a href="https://github.com/hj-n/ext-clustering-validation-datasets/blob/master/reader.py" className="text-sky-600 hover:underline">GitHub repository</a>. 
 				The reader of the compressed files is also available at the same link.
 			</p>
 		</div>

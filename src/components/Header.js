@@ -2,16 +2,16 @@
 const Header = (props) => {
 
 	return (
-		<div>
-			<h2>Sanity Check for External Clustering Validation Benchmarks using Internal Validation Measures</h2>
-			<h3>Supplemental Material -- Datasets</h3>
-			<p>
+		<div className="max-w-[90rem] mx-auto mt-20 py-5">
+			<h2 className="text-5xl text-center font-bold">Sanity Check for External Clustering Validation Benchmarks <br/> using Internal Validation Measures</h2>
+			<h3 className="text-center font-medium text-2xl my-10">Supplemental Material - Datasets</h3>
+			<p className="w-3/5 mx-auto leading-relaxed">
 				On this webpage, you can find 96 labeled datasets used in the paper. 
 				We provided not only the number of points, classes, and dimensions, 
 				but also the scores made by the between-dataset calinski-harabsz index, 
 				which works as a proxy for the class-label matching (CLM) scores. 
 			</p>
-			<p>
+			<p className="w-3/5 mx-auto leading-relaxed mt-5">
 				You can filter datasets within a specific CLM range by adjusting the below slider.
 				All datasets are in both compressed (.bin) and numpy (.npy) formats. 
 				To download entire datasets at once, refer to our <a href="https://github.com/hj-n/ext-clustering-validation-datasets/blob/master/reader.py">GitHub repository</a>. 

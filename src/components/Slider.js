@@ -58,7 +58,7 @@ const Slider = (props) => {
 
 
 	return (
-		<div>
+		<div className="mx-auto">
 			{/* <input type="range" value={sliderVar} min="0" max="100"
 				onChange={(e) => {
 					dispatch(setValue(e.target.value));

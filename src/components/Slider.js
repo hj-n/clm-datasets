@@ -7,11 +7,13 @@ import { Vega } from 'react-vega';
 const Slider = (props) => {
 	const tableData = props.tableData;
 	const vegaData = {
-		"scores": tableData.map(item => {return {
-			"Class-Label Matching": item.score,
-			"dataset": item.name,
-			"key": item.key,
-		}})
+		"scores": tableData.map(item => {
+			return {
+				"Cluster-Label Matching": item.score,
+				"dataset": item.name,
+				"key": item.key,
+			}
+		})
 	}
 
 
@@ -20,9 +22,9 @@ const Slider = (props) => {
 		"height": 50,
 		"mark": "point",
 		"encoding": {
-			"x": {"field": "Class-Label Matching", "type": "quantitative"},
+			"x": { "field": "Cluster-Label Matching", "type": "quantitative" },
 			"color": {
-				"condition": {"param": "brush", "value": "red"},
+				"condition": { "param": "brush", "value": "red" },
 				"value": "grey"
 			}
 		},
@@ -31,15 +33,15 @@ const Slider = (props) => {
 			{
 				"name": "brush", "value": 0,
 				"on": [
-					{	"events": "rect:dragover", }
+					{ "events": "rect:dragover", }
 				]
 			}
 		],
 		params: [{
 			"name": "brush",
-			"select": {type: "interval", encodings: ["x"]}
+			"select": { type: "interval", encodings: ["x"] }
 		}]
-		
+
 	}
 
 	const dispatch = useDispatch();
@@ -51,7 +53,7 @@ const Slider = (props) => {
 		if (Object.keys(event[1]).length === 0) {
 			return;
 		}
-		dispatch(setValue(event[1]["Class-Label Matching"]));
+		dispatch(setValue(event[1]["Cluster-Label Matching"]));
 	}
 
 	const signalListeners = { brush: dragBrush };
@@ -64,7 +66,7 @@ const Slider = (props) => {
 					dispatch(setValue(e.target.value));
 				}}
 			/> */}
-			<Vega spec={spec} data={vegaData} signalListeners={signalListeners}/>
+			<Vega spec={spec} data={vegaData} signalListeners={signalListeners} />
 		</div>
 	)
 };

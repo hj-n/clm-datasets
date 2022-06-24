@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clm-datasets/static/css/main.cd813d24.css",
-    "main.js": "/clm-datasets/static/js/main.d2eb95de.js",
+    "main.js": "/clm-datasets/static/js/main.d3cc7e97.js",
     "index.html": "/clm-datasets/index.html",
     "main.cd813d24.css.map": "/clm-datasets/static/css/main.cd813d24.css.map",
-    "main.d2eb95de.js.map": "/clm-datasets/static/js/main.d2eb95de.js.map"
+    "main.d3cc7e97.js.map": "/clm-datasets/static/js/main.d3cc7e97.js.map"
   },
   "entrypoints": [
     "static/css/main.cd813d24.css",
-    "static/js/main.d2eb95de.js"
+    "static/js/main.d3cc7e97.js"
   ]
 }

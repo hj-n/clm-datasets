@@ -22,7 +22,7 @@ const Slider = (props) => {
 		"height": 50,
 		"mark": "point",
 		"encoding": {
-			"x": { "field": "Cluster-Label Matching", "type": "quantitative" },
+			"x": { "field": "Cluster-Label Matching", "type": "quantitative", "title": "CLM computed by Between-dataset Calinski-Harabasz Index" },
 			"color": {
 				"condition": { "param": "brush", "value": "red" },
 				"value": "grey"

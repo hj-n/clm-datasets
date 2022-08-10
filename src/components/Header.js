@@ -19,8 +19,8 @@ const Header = (props) => {
 				The reader of the compressed files is also available at the same link.
 				Note that we also provided a summary statistic of the datasets consists of the basics infos (e.g., objects, classes) along with the CLM scores computed by various measures. 
 				You can find it at our <a href="https://github.com/hj-n/labeled-datasets" className="text-sky-600 hover:underline">repository</a> or
-				directlry download the file via 
-				<a href="https://github.com/hj-n/ext-clustering-validation-datasets/raw/master/summary.csv"  className="text-sky-600 hover:underline"> the link</a>.
+				directly download the file via 
+				<a href="https://github.com/hj-n/ext-clustering-validation-datasets/raw/master/summary.csv" download className="text-sky-600 hover:underline"> the link</a>.
 			</p>
 		</div>
 	)

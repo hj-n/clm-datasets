@@ -25,9 +25,9 @@ const Table = (props) => {
 						<th scope="col" className="px-6 py-6">Rank</th>
 						<th scope="col" className="px-6 py-6">Datasets</th>
 						<th scope="col" className="px-6 py-6">CLM</th>
-						<th scope="col" className="px-6 py-6">Points</th>
+						<th scope="col" className="px-6 py-6">Objects</th>
 						<th scope="col" className="px-6 py-6">Classes</th>
-						<th scope="col" className="px-6 py-6">Dims</th>
+						<th scope="col" className="px-6 py-6">Features</th>
 						<th scope="col" className="px-6 py-6">Data & Label (comp)</th>
 						{/* <th scope="col" className="px-6 py-6">Label (comp)</th> */}
 						<th scope="col" className="px-6 py-6">Data & Label (npy)</th>

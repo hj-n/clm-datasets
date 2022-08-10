@@ -10,12 +10,17 @@ const Header = (props) => {
 				We provided not only the number of points, classes, and dimensions,
 				but also the scores made by the between-dataset calinski-harabsz index,
 				which works as a proxy for the cluster-label matching (CLM) scores.
-			</p>
-			<p className="w-3/5 mx-auto leading-relaxed mt-5">
 				You can filter datasets within a specific CLM range by adjusting the below slider.
 				All datasets are in both compressed (.bin) and numpy (.npy) formats.
+			</p>
+			<p className="w-3/5 mx-auto leading-relaxed mt-5">
+
 				To download entire datasets at once, refer to our <a href="https://github.com/hj-n/labeled-datasets" className="text-sky-600 hover:underline">GitHub repository</a>.
 				The reader of the compressed files is also available at the same link.
+				Note that we also provided a summary statistic of the datasets consists of the basics infos (e.g., objects, classes) along with the CLM scores computed by various measures. 
+				You can find it at our <a href="https://github.com/hj-n/labeled-datasets" className="text-sky-600 hover:underline">repository</a> or
+				directlry download the file via 
+				<a href="https://github.com/hj-n/ext-clustering-validation-datasets/raw/master/summary.csv"  className="text-sky-600 hover:underline"> the link</a>.
 			</p>
 		</div>
 	)

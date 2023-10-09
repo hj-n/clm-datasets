@@ -40,7 +40,7 @@ const Table = (props) => {
 							<tr key={i} className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600">
 								<th scope="row" className="px-6 py-3 font-medium text-gray-900 dark:text-white whitespace-nowrap">{i + 1}</th>
 								<th scope="row" className="px-6 py-3 font-medium text-gray-900 dark:text-white whitespace-nowrap">{row.name}</th>
-								<td className="px-6 py-3 font-mono">{row.score.toFixed(5)}</td>
+								<td className="px-6 py-3 font-mono">{row.score.toFixed(3)}</td>
 								<td className="px-6 py-3">{row.points}</td>
 								<td className="px-6 py-3">{row.classes}</td>
 								<td className="px-6 py-3">{row.dimensions}</td>

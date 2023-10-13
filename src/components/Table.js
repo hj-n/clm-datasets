@@ -28,9 +28,9 @@ const Table = (props) => {
 						<th scope="col" className="px-6 py-6">Objects</th>
 						<th scope="col" className="px-6 py-6">Classes</th>
 						<th scope="col" className="px-6 py-6">Features</th>
-						<th scope="col" className="px-6 py-6">Data & Label (comp)</th>
+						<th scope="col" className="px-6 py-6">Download <br/>Data & Label (binary)</th>
 						{/* <th scope="col" className="px-6 py-6">Label (comp)</th> */}
-						<th scope="col" className="px-6 py-6">Data & Label (npy)</th>
+						<th scope="col" className="px-6 py-6">Download <br/>Data & Label (npy)</th>
 						{/* <th scope="col" className="px-6 py-6">Label (npy)</th> */}
 					</tr>
 				</thead>
@@ -51,7 +51,7 @@ const Table = (props) => {
 											<div className="mt-[0.15rem] -ml-0.5">
 												<svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
 											</div>
-											Download _bin.zip
+											Binary (zip)
 										</button>
 									</a>
 
@@ -77,7 +77,7 @@ const Table = (props) => {
 											<div className="mt-[0.15rem] -ml-0.5">
 												<svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" /></svg>
 											</div>
-											Download _npy.zip
+											NPY (zip)
 										</button>
 											</a>
 									</div>
